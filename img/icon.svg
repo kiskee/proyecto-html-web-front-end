@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="300" height="180" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#ff7f00" height="139" id="svg_10" stroke="#000000" stroke-width="5" width="273" x="14.5" y="19.5"/>
+  <text fill="#000000" font-family="Fantasy" font-size="24" id="svg_1" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(7.59507 0 0 4.10148 -298.118 -114.706)" x="50.5" xml:space="preserve" y="58.5"/>
+  <text fill="#000000" font-family="Fantasy" font-size="0.001" id="svg_2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0)" x="57.5" xml:space="preserve" y="63.5"/>
+  <text fill="#000000" font-family="Fantasy" font-size="0.001" id="svg_3" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="102.5" xml:space="preserve" y="110.5">dd</text>
+  <text fill="#ff0000" font-family="serif" font-size="24" id="svg_5" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(3.12121 0 0 2.85185 -575.909 -158.333)" x="208.063103" xml:space="preserve" y="98.084416">D</text>
+  <text fill="#7fff00" font-family="serif" font-size="24" id="svg_8" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(4.04762 0 0 3.22222 -691.333 -292.556)" x="207.488234" xml:space="preserve" y="120.327587">M</text>
+  <text fill="#3f007f" font-family="serif" font-size="24" id="svg_9" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(3.5 0 0 2.51852 -711.25 -176.907)" x="269.357143" xml:space="preserve" y="118.044117">C</text>
+ </g>
+</svg>
